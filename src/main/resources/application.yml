@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /produdoro/api
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://phellipe:762153321@wakanda.rnsfmc5.mongodb.net/wakanda?retryWrites=true&w=majority&appName=wakanda
